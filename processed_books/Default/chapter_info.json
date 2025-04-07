@@ -1,0 +1,1395 @@
+{
+  "Introduction": {
+    "start_page": 2,
+    "chunk_ids": [
+      "Introduction_0"
+    ]
+  },
+  "GEORGE ALLEN": {
+    "start_page": 2,
+    "chunk_ids": []
+  },
+  "PUBLISHER": {
+    "start_page": 2,
+    "chunk_ids": []
+  },
+  "156 CHARING CROSS ROAD": {
+    "start_page": 2,
+    "chunk_ids": []
+  },
+  "LONDON": {
+    "start_page": 2,
+    "chunk_ids": []
+  },
+  "RUSKIN HOUSE": {
+    "start_page": 2,
+    "chunk_ids": [
+      "RUSKIN HOUSE_0"
+    ]
+  },
+  "PRIDE.": {
+    "start_page": 2,
+    "chunk_ids": [
+      "PRIDE._0"
+    ]
+  },
+  "PREJUDICE": {
+    "start_page": 2,
+    "chunk_ids": [
+      "PREJUDICE_0"
+    ]
+  },
+  "CHISWICK PRESS:--CHARLES WHITTINGHAM AND CO.": {
+    "start_page": 2,
+    "chunk_ids": []
+  },
+  "TOOKS COURT, CHANCERY LANE, LONDON.": {
+    "start_page": 2,
+    "chunk_ids": [
+      "TOOKS COURT, CHANCERY LANE, LONDON._0",
+      "TOOKS COURT, CHANCERY LANE, LONDON._1"
+    ]
+  },
+  "PREFACE.": {
+    "start_page": 3,
+    "chunk_ids": [
+      "PREFACE._0",
+      "PREFACE._1",
+      "PREFACE._2",
+      "PREFACE._3",
+      "PREFACE._4",
+      "PREFACE._5",
+      "PREFACE._6",
+      "PREFACE._7",
+      "PREFACE._8",
+      "PREFACE._9",
+      "PREFACE._10",
+      "PREFACE._11",
+      "PREFACE._12",
+      "PREFACE._13",
+      "PREFACE._14",
+      "PREFACE._15",
+      "PREFACE._16",
+      "PREFACE._17",
+      "PREFACE._18",
+      "PREFACE._19",
+      "PREFACE._20",
+      "PREFACE._21",
+      "PREFACE._22",
+      "PREFACE._23",
+      "PREFACE._24",
+      "PREFACE._25",
+      "PREFACE._26",
+      "PREFACE._27",
+      "PREFACE._28",
+      "PREFACE._29",
+      "PREFACE._30",
+      "PREFACE._31",
+      "PREFACE._32"
+    ]
+  },
+  "_GEORGE SAINTSBURY._": {
+    "start_page": 12,
+    "chunk_ids": [
+      "_GEORGE SAINTSBURY.__0",
+      "_GEORGE SAINTSBURY.__1",
+      "_GEORGE SAINTSBURY.__2",
+      "_GEORGE SAINTSBURY.__3",
+      "_GEORGE SAINTSBURY.__4",
+      "_GEORGE SAINTSBURY.__5",
+      "_GEORGE SAINTSBURY.__6",
+      "_GEORGE SAINTSBURY.__7",
+      "_GEORGE SAINTSBURY.__8",
+      "_GEORGE SAINTSBURY.__9",
+      "_GEORGE SAINTSBURY.__10",
+      "_GEORGE SAINTSBURY.__11",
+      "_GEORGE SAINTSBURY.__12",
+      "_GEORGE SAINTSBURY.__13",
+      "_GEORGE SAINTSBURY.__14",
+      "_GEORGE SAINTSBURY.__15"
+    ]
+  },
+  "CHAPTER II.": {
+    "start_page": 21,
+    "chunk_ids": [
+      "CHAPTER II._0",
+      "CHAPTER II._1",
+      "CHAPTER II._2",
+      "CHAPTER II._3",
+      "CHAPTER II._4",
+      "CHAPTER II._5"
+    ]
+  },
+  "CHAPTER III.": {
+    "start_page": 24,
+    "chunk_ids": [
+      "CHAPTER III._0",
+      "CHAPTER III._1",
+      "CHAPTER III._2",
+      "CHAPTER III._3",
+      "CHAPTER III._4",
+      "CHAPTER III._5",
+      "CHAPTER III._6",
+      "CHAPTER III._7",
+      "CHAPTER III._8",
+      "CHAPTER III._9",
+      "CHAPTER III._10",
+      "CHAPTER III._11",
+      "CHAPTER III._12"
+    ]
+  },
+  "CHAPTER IV.": {
+    "start_page": 29,
+    "chunk_ids": [
+      "CHAPTER IV._0",
+      "CHAPTER IV._1",
+      "CHAPTER IV._2",
+      "CHAPTER IV._3",
+      "CHAPTER IV._4",
+      "CHAPTER IV._5",
+      "CHAPTER IV._6",
+      "CHAPTER IV._7"
+    ]
+  },
+  "CHAPTER V.": {
+    "start_page": 32,
+    "chunk_ids": [
+      "CHAPTER V._0",
+      "CHAPTER V._1",
+      "CHAPTER V._2",
+      "CHAPTER V._3",
+      "CHAPTER V._4",
+      "CHAPTER V._5",
+      "CHAPTER V._6"
+    ]
+  },
+  "CHAPTER VI.": {
+    "start_page": 35,
+    "chunk_ids": [
+      "CHAPTER VI._0",
+      "CHAPTER VI._1",
+      "CHAPTER VI._2",
+      "CHAPTER VI._3",
+      "CHAPTER VI._4",
+      "CHAPTER VI._5",
+      "CHAPTER VI._6",
+      "CHAPTER VI._7",
+      "CHAPTER VI._8",
+      "CHAPTER VI._9",
+      "CHAPTER VI._10",
+      "CHAPTER VI._11",
+      "CHAPTER VI._12",
+      "CHAPTER VI._13",
+      "CHAPTER VI._14",
+      "CHAPTER VI._15",
+      "CHAPTER VI._16"
+    ]
+  },
+  "CHAPTER VII.": {
+    "start_page": 42,
+    "chunk_ids": [
+      "CHAPTER VII._0",
+      "CHAPTER VII._1",
+      "CHAPTER VII._2",
+      "CHAPTER VII._3",
+      "CHAPTER VII._4",
+      "CHAPTER VII._5"
+    ]
+  },
+  "“CAROLINE BINGLEY.”": {
+    "start_page": 45,
+    "chunk_ids": [
+      "“CAROLINE BINGLEY.”_0",
+      "“CAROLINE BINGLEY.”_1",
+      "“CAROLINE BINGLEY.”_2",
+      "“CAROLINE BINGLEY.”_3",
+      "“CAROLINE BINGLEY.”_4",
+      "“CAROLINE BINGLEY.”_5",
+      "“CAROLINE BINGLEY.”_6",
+      "“CAROLINE BINGLEY.”_7",
+      "“CAROLINE BINGLEY.”_8"
+    ]
+  },
+  "CHAPTER VIII.": {
+    "start_page": 49,
+    "chunk_ids": [
+      "CHAPTER VIII._0",
+      "CHAPTER VIII._1",
+      "CHAPTER VIII._2",
+      "CHAPTER VIII._3",
+      "CHAPTER VIII._4",
+      "CHAPTER VIII._5",
+      "CHAPTER VIII._6",
+      "CHAPTER VIII._7",
+      "CHAPTER VIII._8",
+      "CHAPTER VIII._9",
+      "CHAPTER VIII._10",
+      "CHAPTER VIII._11",
+      "CHAPTER VIII._12",
+      "CHAPTER VIII._13",
+      "CHAPTER VIII._14"
+    ]
+  },
+  "CHAPTER IX.": {
+    "start_page": 55,
+    "chunk_ids": [
+      "CHAPTER IX._0",
+      "CHAPTER IX._1",
+      "CHAPTER IX._2",
+      "CHAPTER IX._3",
+      "CHAPTER IX._4",
+      "CHAPTER IX._5",
+      "CHAPTER IX._6",
+      "CHAPTER IX._7",
+      "CHAPTER IX._8",
+      "CHAPTER IX._9",
+      "CHAPTER IX._10",
+      "CHAPTER IX._11"
+    ]
+  },
+  "CHAPTER X.": {
+    "start_page": 60,
+    "chunk_ids": [
+      "CHAPTER X._0",
+      "CHAPTER X._1",
+      "CHAPTER X._2",
+      "CHAPTER X._3",
+      "CHAPTER X._4",
+      "CHAPTER X._5",
+      "CHAPTER X._6",
+      "CHAPTER X._7",
+      "CHAPTER X._8",
+      "CHAPTER X._9",
+      "CHAPTER X._10",
+      "CHAPTER X._11",
+      "CHAPTER X._12",
+      "CHAPTER X._13",
+      "CHAPTER X._14",
+      "CHAPTER X._15"
+    ]
+  },
+  "CHAPTER XI.": {
+    "start_page": 68,
+    "chunk_ids": [
+      "CHAPTER XI._0",
+      "CHAPTER XI._1",
+      "CHAPTER XI._2",
+      "CHAPTER XI._3",
+      "CHAPTER XI._4",
+      "CHAPTER XI._5",
+      "CHAPTER XI._6",
+      "CHAPTER XI._7",
+      "CHAPTER XI._8",
+      "CHAPTER XI._9",
+      "CHAPTER XI._10",
+      "CHAPTER XI._11"
+    ]
+  },
+  "CHAPTER XII.": {
+    "start_page": 73,
+    "chunk_ids": [
+      "CHAPTER XII._0",
+      "CHAPTER XII._1",
+      "CHAPTER XII._2",
+      "CHAPTER XII._3",
+      "CHAPTER XII._4"
+    ]
+  },
+  "CHAPTER XIII": {
+    "start_page": 75,
+    "chunk_ids": [
+      "CHAPTER XIII_0",
+      "CHAPTER XIII_1",
+      "CHAPTER XIII_2",
+      "CHAPTER XIII_3",
+      "CHAPTER XIII_4",
+      "CHAPTER XIII_5",
+      "CHAPTER XIII_6",
+      "CHAPTER XIII_7"
+    ]
+  },
+  "“WILLIAM COLLINS.”": {
+    "start_page": 77,
+    "chunk_ids": [
+      "“WILLIAM COLLINS.”_0",
+      "“WILLIAM COLLINS.”_1",
+      "“WILLIAM COLLINS.”_2",
+      "“WILLIAM COLLINS.”_3",
+      "“WILLIAM COLLINS.”_4"
+    ]
+  },
+  "CHAPTER XIV": {
+    "start_page": 79,
+    "chunk_ids": [
+      "CHAPTER XIV_0",
+      "CHAPTER XIV_1",
+      "CHAPTER XIV_2",
+      "CHAPTER XIV_3",
+      "CHAPTER XIV_4",
+      "CHAPTER XIV_5",
+      "CHAPTER XIV_6",
+      "CHAPTER XIV_7",
+      "CHAPTER XIV_8"
+    ]
+  },
+  "CHAPTER XV.": {
+    "start_page": 83,
+    "chunk_ids": [
+      "CHAPTER XV._0",
+      "CHAPTER XV._1",
+      "CHAPTER XV._2",
+      "CHAPTER XV._3",
+      "CHAPTER XV._4",
+      "CHAPTER XV._5",
+      "CHAPTER XV._6",
+      "CHAPTER XV._7",
+      "CHAPTER XV._8",
+      "CHAPTER XV._9",
+      "CHAPTER XV._10",
+      "CHAPTER XV._11"
+    ]
+  },
+  "CHAPTER XVI.": {
+    "start_page": 87,
+    "chunk_ids": [
+      "CHAPTER XVI._0",
+      "CHAPTER XVI._1",
+      "CHAPTER XVI._2",
+      "CHAPTER XVI._3",
+      "CHAPTER XVI._4",
+      "CHAPTER XVI._5",
+      "CHAPTER XVI._6",
+      "CHAPTER XVI._7",
+      "CHAPTER XVI._8",
+      "CHAPTER XVI._9",
+      "CHAPTER XVI._10",
+      "CHAPTER XVI._11",
+      "CHAPTER XVI._12",
+      "CHAPTER XVI._13",
+      "CHAPTER XVI._14",
+      "CHAPTER XVI._15",
+      "CHAPTER XVI._16",
+      "CHAPTER XVI._17",
+      "CHAPTER XVI._18",
+      "CHAPTER XVI._19",
+      "CHAPTER XVI._20",
+      "CHAPTER XVI._21",
+      "CHAPTER XVI._22",
+      "CHAPTER XVI._23"
+    ]
+  },
+  "CHAPTER XVII.": {
+    "start_page": 97,
+    "chunk_ids": [
+      "CHAPTER XVII._0",
+      "CHAPTER XVII._1",
+      "CHAPTER XVII._2",
+      "CHAPTER XVII._3",
+      "CHAPTER XVII._4",
+      "CHAPTER XVII._5",
+      "CHAPTER XVII._6",
+      "CHAPTER XVII._7",
+      "CHAPTER XVII._8"
+    ]
+  },
+  "CHAPTER XVIII.": {
+    "start_page": 100,
+    "chunk_ids": [
+      "CHAPTER XVIII._0",
+      "CHAPTER XVIII._1",
+      "CHAPTER XVIII._2",
+      "CHAPTER XVIII._3",
+      "CHAPTER XVIII._4",
+      "CHAPTER XVIII._5",
+      "CHAPTER XVIII._6",
+      "CHAPTER XVIII._7",
+      "CHAPTER XVIII._8",
+      "CHAPTER XVIII._9",
+      "CHAPTER XVIII._10",
+      "CHAPTER XVIII._11",
+      "CHAPTER XVIII._12",
+      "CHAPTER XVIII._13",
+      "CHAPTER XVIII._14",
+      "CHAPTER XVIII._15",
+      "CHAPTER XVIII._16",
+      "CHAPTER XVIII._17",
+      "CHAPTER XVIII._18",
+      "CHAPTER XVIII._19",
+      "CHAPTER XVIII._20",
+      "CHAPTER XVIII._21",
+      "CHAPTER XVIII._22",
+      "CHAPTER XVIII._23",
+      "CHAPTER XVIII._24",
+      "CHAPTER XVIII._25",
+      "CHAPTER XVIII._26",
+      "CHAPTER XVIII._27",
+      "CHAPTER XVIII._28",
+      "CHAPTER XVIII._29",
+      "CHAPTER XVIII._30",
+      "CHAPTER XVIII._31",
+      "CHAPTER XVIII._32",
+      "CHAPTER XVIII._33",
+      "CHAPTER XVIII._34",
+      "CHAPTER XVIII._35",
+      "CHAPTER XVIII._36",
+      "CHAPTER XVIII._37"
+    ]
+  },
+  "CHAPTER XIX.": {
+    "start_page": 114,
+    "chunk_ids": [
+      "CHAPTER XIX._0",
+      "CHAPTER XIX._1",
+      "CHAPTER XIX._2",
+      "CHAPTER XIX._3",
+      "CHAPTER XIX._4",
+      "CHAPTER XIX._5",
+      "CHAPTER XIX._6",
+      "CHAPTER XIX._7",
+      "CHAPTER XIX._8",
+      "CHAPTER XIX._9",
+      "CHAPTER XIX._10",
+      "CHAPTER XIX._11",
+      "CHAPTER XIX._12"
+    ]
+  },
+  "CHAPTER XX.": {
+    "start_page": 119,
+    "chunk_ids": [
+      "CHAPTER XX._0",
+      "CHAPTER XX._1",
+      "CHAPTER XX._2",
+      "CHAPTER XX._3",
+      "CHAPTER XX._4",
+      "CHAPTER XX._5",
+      "CHAPTER XX._6",
+      "CHAPTER XX._7",
+      "CHAPTER XX._8",
+      "CHAPTER XX._9",
+      "CHAPTER XX._10",
+      "CHAPTER XX._11"
+    ]
+  },
+  "CHAPTER XXI.": {
+    "start_page": 124,
+    "chunk_ids": [
+      "CHAPTER XXI._0",
+      "CHAPTER XXI._1",
+      "CHAPTER XXI._2",
+      "CHAPTER XXI._3",
+      "CHAPTER XXI._4",
+      "CHAPTER XXI._5",
+      "CHAPTER XXI._6",
+      "CHAPTER XXI._7",
+      "CHAPTER XXI._8",
+      "CHAPTER XXI._9",
+      "CHAPTER XXI._10",
+      "CHAPTER XXI._11",
+      "CHAPTER XXI._12",
+      "CHAPTER XXI._13",
+      "CHAPTER XXI._14"
+    ]
+  },
+  "CHAPTER XXII.": {
+    "start_page": 129,
+    "chunk_ids": [
+      "CHAPTER XXII._0",
+      "CHAPTER XXII._1",
+      "CHAPTER XXII._2",
+      "CHAPTER XXII._3",
+      "CHAPTER XXII._4",
+      "CHAPTER XXII._5",
+      "CHAPTER XXII._6",
+      "CHAPTER XXII._7",
+      "CHAPTER XXII._8",
+      "CHAPTER XXII._9",
+      "CHAPTER XXII._10",
+      "CHAPTER XXII._11"
+    ]
+  },
+  "CHAPTER XXIII.": {
+    "start_page": 134,
+    "chunk_ids": [
+      "CHAPTER XXIII._0",
+      "CHAPTER XXIII._1",
+      "CHAPTER XXIII._2",
+      "CHAPTER XXIII._3",
+      "CHAPTER XXIII._4",
+      "CHAPTER XXIII._5",
+      "CHAPTER XXIII._6",
+      "CHAPTER XXIII._7",
+      "CHAPTER XXIII._8",
+      "CHAPTER XXIII._9",
+      "CHAPTER XXIII._10",
+      "CHAPTER XXIII._11"
+    ]
+  },
+  "CHAPTER XXIV.": {
+    "start_page": 139,
+    "chunk_ids": [
+      "CHAPTER XXIV._0",
+      "CHAPTER XXIV._1",
+      "CHAPTER XXIV._2",
+      "CHAPTER XXIV._3",
+      "CHAPTER XXIV._4",
+      "CHAPTER XXIV._5",
+      "CHAPTER XXIV._6",
+      "CHAPTER XXIV._7",
+      "CHAPTER XXIV._8",
+      "CHAPTER XXIV._9",
+      "CHAPTER XXIV._10",
+      "CHAPTER XXIV._11",
+      "CHAPTER XXIV._12",
+      "CHAPTER XXIV._13"
+    ]
+  },
+  "CHAPTER XXV.": {
+    "start_page": 144,
+    "chunk_ids": [
+      "CHAPTER XXV._0",
+      "CHAPTER XXV._1",
+      "CHAPTER XXV._2",
+      "CHAPTER XXV._3",
+      "CHAPTER XXV._4",
+      "CHAPTER XXV._5",
+      "CHAPTER XXV._6",
+      "CHAPTER XXV._7",
+      "CHAPTER XXV._8",
+      "CHAPTER XXV._9",
+      "CHAPTER XXV._10",
+      "CHAPTER XXV._11"
+    ]
+  },
+  "CHAPTER XXVI.": {
+    "start_page": 148,
+    "chunk_ids": [
+      "CHAPTER XXVI._0",
+      "CHAPTER XXVI._1",
+      "CHAPTER XXVI._2",
+      "CHAPTER XXVI._3",
+      "CHAPTER XXVI._4",
+      "CHAPTER XXVI._5",
+      "CHAPTER XXVI._6",
+      "CHAPTER XXVI._7",
+      "CHAPTER XXVI._8",
+      "CHAPTER XXVI._9",
+      "CHAPTER XXVI._10",
+      "CHAPTER XXVI._11",
+      "CHAPTER XXVI._12",
+      "CHAPTER XXVI._13",
+      "CHAPTER XXVI._14",
+      "CHAPTER XXVI._15"
+    ]
+  },
+  "CHAPTER XXVII.": {
+    "start_page": 155,
+    "chunk_ids": [
+      "CHAPTER XXVII._0",
+      "CHAPTER XXVII._1",
+      "CHAPTER XXVII._2",
+      "CHAPTER XXVII._3",
+      "CHAPTER XXVII._4",
+      "CHAPTER XXVII._5",
+      "CHAPTER XXVII._6",
+      "CHAPTER XXVII._7",
+      "CHAPTER XXVII._8"
+    ]
+  },
+  "CHAPTER XXVIII.": {
+    "start_page": 158,
+    "chunk_ids": [
+      "CHAPTER XXVIII._0",
+      "CHAPTER XXVIII._1",
+      "CHAPTER XXVIII._2",
+      "CHAPTER XXVIII._3",
+      "CHAPTER XXVIII._4",
+      "CHAPTER XXVIII._5",
+      "CHAPTER XXVIII._6",
+      "CHAPTER XXVIII._7",
+      "CHAPTER XXVIII._8",
+      "CHAPTER XXVIII._9",
+      "CHAPTER XXVIII._10"
+    ]
+  },
+  "CHAPTER XXIX.": {
+    "start_page": 163,
+    "chunk_ids": [
+      "CHAPTER XXIX._0",
+      "CHAPTER XXIX._1",
+      "CHAPTER XXIX._2",
+      "CHAPTER XXIX._3",
+      "CHAPTER XXIX._4",
+      "CHAPTER XXIX._5",
+      "CHAPTER XXIX._6",
+      "CHAPTER XXIX._7",
+      "CHAPTER XXIX._8",
+      "CHAPTER XXIX._9",
+      "CHAPTER XXIX._10",
+      "CHAPTER XXIX._11",
+      "CHAPTER XXIX._12",
+      "CHAPTER XXIX._13",
+      "CHAPTER XXIX._14",
+      "CHAPTER XXIX._15",
+      "CHAPTER XXIX._16"
+    ]
+  },
+  "CHAPTER XXX.": {
+    "start_page": 169,
+    "chunk_ids": [
+      "CHAPTER XXX._0",
+      "CHAPTER XXX._1",
+      "CHAPTER XXX._2",
+      "CHAPTER XXX._3",
+      "CHAPTER XXX._4",
+      "CHAPTER XXX._5",
+      "CHAPTER XXX._6",
+      "CHAPTER XXX._7",
+      "CHAPTER XXX._8"
+    ]
+  },
+  "CHAPTER XXXI.": {
+    "start_page": 173,
+    "chunk_ids": [
+      "CHAPTER XXXI._0",
+      "CHAPTER XXXI._1",
+      "CHAPTER XXXI._2",
+      "CHAPTER XXXI._3",
+      "CHAPTER XXXI._4",
+      "CHAPTER XXXI._5",
+      "CHAPTER XXXI._6",
+      "CHAPTER XXXI._7",
+      "CHAPTER XXXI._8",
+      "CHAPTER XXXI._9",
+      "CHAPTER XXXI._10"
+    ]
+  },
+  "CHAPTER XXXII.": {
+    "start_page": 178,
+    "chunk_ids": [
+      "CHAPTER XXXII._0",
+      "CHAPTER XXXII._1",
+      "CHAPTER XXXII._2",
+      "CHAPTER XXXII._3",
+      "CHAPTER XXXII._4",
+      "CHAPTER XXXII._5",
+      "CHAPTER XXXII._6",
+      "CHAPTER XXXII._7",
+      "CHAPTER XXXII._8",
+      "CHAPTER XXXII._9",
+      "CHAPTER XXXII._10"
+    ]
+  },
+  "CHAPTER XXXIII.": {
+    "start_page": 182,
+    "chunk_ids": [
+      "CHAPTER XXXIII._0",
+      "CHAPTER XXXIII._1",
+      "CHAPTER XXXIII._2",
+      "CHAPTER XXXIII._3",
+      "CHAPTER XXXIII._4",
+      "CHAPTER XXXIII._5",
+      "CHAPTER XXXIII._6",
+      "CHAPTER XXXIII._7",
+      "CHAPTER XXXIII._8",
+      "CHAPTER XXXIII._9",
+      "CHAPTER XXXIII._10",
+      "CHAPTER XXXIII._11",
+      "CHAPTER XXXIII._12"
+    ]
+  },
+  "CHAPTER XXXIV.": {
+    "start_page": 188,
+    "chunk_ids": [
+      "CHAPTER XXXIV._0",
+      "CHAPTER XXXIV._1",
+      "CHAPTER XXXIV._2",
+      "CHAPTER XXXIV._3",
+      "CHAPTER XXXIV._4",
+      "CHAPTER XXXIV._5",
+      "CHAPTER XXXIV._6",
+      "CHAPTER XXXIV._7",
+      "CHAPTER XXXIV._8",
+      "CHAPTER XXXIV._9",
+      "CHAPTER XXXIV._10",
+      "CHAPTER XXXIV._11",
+      "CHAPTER XXXIV._12",
+      "CHAPTER XXXIV._13",
+      "CHAPTER XXXIV._14",
+      "CHAPTER XXXIV._15"
+    ]
+  },
+  "CHAPTER XXXV.": {
+    "start_page": 193,
+    "chunk_ids": [
+      "CHAPTER XXXV._0",
+      "CHAPTER XXXV._1",
+      "CHAPTER XXXV._2",
+      "CHAPTER XXXV._3",
+      "CHAPTER XXXV._4",
+      "CHAPTER XXXV._5",
+      "CHAPTER XXXV._6",
+      "CHAPTER XXXV._7",
+      "CHAPTER XXXV._8",
+      "CHAPTER XXXV._9",
+      "CHAPTER XXXV._10",
+      "CHAPTER XXXV._11",
+      "CHAPTER XXXV._12",
+      "CHAPTER XXXV._13",
+      "CHAPTER XXXV._14",
+      "CHAPTER XXXV._15",
+      "CHAPTER XXXV._16",
+      "CHAPTER XXXV._17",
+      "CHAPTER XXXV._18",
+      "CHAPTER XXXV._19",
+      "CHAPTER XXXV._20"
+    ]
+  },
+  "“FITZWILLIAM DARCY.”": {
+    "start_page": 200,
+    "chunk_ids": [
+      "“FITZWILLIAM DARCY.”_0"
+    ]
+  },
+  "CHAPTER XXXVI.": {
+    "start_page": 200,
+    "chunk_ids": [
+      "CHAPTER XXXVI._0",
+      "CHAPTER XXXVI._1",
+      "CHAPTER XXXVI._2",
+      "CHAPTER XXXVI._3",
+      "CHAPTER XXXVI._4",
+      "CHAPTER XXXVI._5",
+      "CHAPTER XXXVI._6",
+      "CHAPTER XXXVI._7",
+      "CHAPTER XXXVI._8",
+      "CHAPTER XXXVI._9",
+      "CHAPTER XXXVI._10",
+      "CHAPTER XXXVI._11",
+      "CHAPTER XXXVI._12",
+      "CHAPTER XXXVI._13",
+      "CHAPTER XXXVI._14"
+    ]
+  },
+  "CHAPTER XXXVII.": {
+    "start_page": 205,
+    "chunk_ids": [
+      "CHAPTER XXXVII._0",
+      "CHAPTER XXXVII._1",
+      "CHAPTER XXXVII._2",
+      "CHAPTER XXXVII._3",
+      "CHAPTER XXXVII._4",
+      "CHAPTER XXXVII._5",
+      "CHAPTER XXXVII._6",
+      "CHAPTER XXXVII._7",
+      "CHAPTER XXXVII._8",
+      "CHAPTER XXXVII._9",
+      "CHAPTER XXXVII._10"
+    ]
+  },
+  "CHAPTER XXXVIII.": {
+    "start_page": 209,
+    "chunk_ids": [
+      "CHAPTER XXXVIII._0",
+      "CHAPTER XXXVIII._1",
+      "CHAPTER XXXVIII._2",
+      "CHAPTER XXXVIII._3",
+      "CHAPTER XXXVIII._4",
+      "CHAPTER XXXVIII._5",
+      "CHAPTER XXXVIII._6",
+      "CHAPTER XXXVIII._7"
+    ]
+  },
+  "CHAPTER XXXIX.": {
+    "start_page": 213,
+    "chunk_ids": [
+      "CHAPTER XXXIX._0",
+      "CHAPTER XXXIX._1",
+      "CHAPTER XXXIX._2",
+      "CHAPTER XXXIX._3",
+      "CHAPTER XXXIX._4",
+      "CHAPTER XXXIX._5",
+      "CHAPTER XXXIX._6",
+      "CHAPTER XXXIX._7",
+      "CHAPTER XXXIX._8",
+      "CHAPTER XXXIX._9",
+      "CHAPTER XXXIX._10"
+    ]
+  },
+  "CHAPTER XL.": {
+    "start_page": 217,
+    "chunk_ids": [
+      "CHAPTER XL._0",
+      "CHAPTER XL._1",
+      "CHAPTER XL._2",
+      "CHAPTER XL._3",
+      "CHAPTER XL._4",
+      "CHAPTER XL._5",
+      "CHAPTER XL._6",
+      "CHAPTER XL._7",
+      "CHAPTER XL._8",
+      "CHAPTER XL._9",
+      "CHAPTER XL._10",
+      "CHAPTER XL._11"
+    ]
+  },
+  "CHAPTER XLI.": {
+    "start_page": 222,
+    "chunk_ids": [
+      "CHAPTER XLI._0",
+      "CHAPTER XLI._1",
+      "CHAPTER XLI._2",
+      "CHAPTER XLI._3",
+      "CHAPTER XLI._4",
+      "CHAPTER XLI._5",
+      "CHAPTER XLI._6",
+      "CHAPTER XLI._7",
+      "CHAPTER XLI._8",
+      "CHAPTER XLI._9",
+      "CHAPTER XLI._10",
+      "CHAPTER XLI._11",
+      "CHAPTER XLI._12",
+      "CHAPTER XLI._13",
+      "CHAPTER XLI._14",
+      "CHAPTER XLI._15",
+      "CHAPTER XLI._16",
+      "CHAPTER XLI._17"
+    ]
+  },
+  "CHAPTER XLII.": {
+    "start_page": 229,
+    "chunk_ids": [
+      "CHAPTER XLII._0",
+      "CHAPTER XLII._1",
+      "CHAPTER XLII._2",
+      "CHAPTER XLII._3",
+      "CHAPTER XLII._4",
+      "CHAPTER XLII._5",
+      "CHAPTER XLII._6",
+      "CHAPTER XLII._7",
+      "CHAPTER XLII._8",
+      "CHAPTER XLII._9",
+      "CHAPTER XLII._10",
+      "CHAPTER XLII._11",
+      "CHAPTER XLII._12",
+      "CHAPTER XLII._13"
+    ]
+  },
+  "CHAPTER XLIII.": {
+    "start_page": 234,
+    "chunk_ids": [
+      "CHAPTER XLIII._0",
+      "CHAPTER XLIII._1",
+      "CHAPTER XLIII._2",
+      "CHAPTER XLIII._3",
+      "CHAPTER XLIII._4",
+      "CHAPTER XLIII._5",
+      "CHAPTER XLIII._6",
+      "CHAPTER XLIII._7",
+      "CHAPTER XLIII._8",
+      "CHAPTER XLIII._9",
+      "CHAPTER XLIII._10",
+      "CHAPTER XLIII._11",
+      "CHAPTER XLIII._12",
+      "CHAPTER XLIII._13",
+      "CHAPTER XLIII._14",
+      "CHAPTER XLIII._15",
+      "CHAPTER XLIII._16",
+      "CHAPTER XLIII._17",
+      "CHAPTER XLIII._18",
+      "CHAPTER XLIII._19",
+      "CHAPTER XLIII._20",
+      "CHAPTER XLIII._21",
+      "CHAPTER XLIII._22",
+      "CHAPTER XLIII._23",
+      "CHAPTER XLIII._24",
+      "CHAPTER XLIII._25",
+      "CHAPTER XLIII._26",
+      "CHAPTER XLIII._27",
+      "CHAPTER XLIII._28",
+      "CHAPTER XLIII._29",
+      "CHAPTER XLIII._30",
+      "CHAPTER XLIII._31",
+      "CHAPTER XLIII._32",
+      "CHAPTER XLIII._33",
+      "CHAPTER XLIII._34"
+    ]
+  },
+  "CHAPTER XLIV.": {
+    "start_page": 247,
+    "chunk_ids": [
+      "CHAPTER XLIV._0",
+      "CHAPTER XLIV._1",
+      "CHAPTER XLIV._2",
+      "CHAPTER XLIV._3",
+      "CHAPTER XLIV._4",
+      "CHAPTER XLIV._5",
+      "CHAPTER XLIV._6",
+      "CHAPTER XLIV._7",
+      "CHAPTER XLIV._8",
+      "CHAPTER XLIV._9",
+      "CHAPTER XLIV._10",
+      "CHAPTER XLIV._11",
+      "CHAPTER XLIV._12",
+      "CHAPTER XLIV._13",
+      "CHAPTER XLIV._14",
+      "CHAPTER XLIV._15",
+      "CHAPTER XLIV._16"
+    ]
+  },
+  "CHAPTER XLV.": {
+    "start_page": 253,
+    "chunk_ids": [
+      "CHAPTER XLV._0",
+      "CHAPTER XLV._1",
+      "CHAPTER XLV._2",
+      "CHAPTER XLV._3",
+      "CHAPTER XLV._4",
+      "CHAPTER XLV._5",
+      "CHAPTER XLV._6",
+      "CHAPTER XLV._7",
+      "CHAPTER XLV._8",
+      "CHAPTER XLV._9",
+      "CHAPTER XLV._10",
+      "CHAPTER XLV._11",
+      "CHAPTER XLV._12",
+      "CHAPTER XLV._13",
+      "CHAPTER XLV._14",
+      "CHAPTER XLV._15",
+      "CHAPTER XLV._16",
+      "CHAPTER XLV._17",
+      "CHAPTER XLV._18",
+      "CHAPTER XLV._19",
+      "CHAPTER XLV._20",
+      "CHAPTER XLV._21",
+      "CHAPTER XLV._22",
+      "CHAPTER XLV._23",
+      "CHAPTER XLV._24",
+      "CHAPTER XLV._25",
+      "CHAPTER XLV._26",
+      "CHAPTER XLV._27",
+      "CHAPTER XLV._28",
+      "CHAPTER XLV._29",
+      "CHAPTER XLV._30",
+      "CHAPTER XLV._31",
+      "CHAPTER XLV._32",
+      "CHAPTER XLV._33",
+      "CHAPTER XLV._34"
+    ]
+  },
+  "CHAPTER XLVII.": {
+    "start_page": 265,
+    "chunk_ids": [
+      "CHAPTER XLVII._0",
+      "CHAPTER XLVII._1",
+      "CHAPTER XLVII._2",
+      "CHAPTER XLVII._3",
+      "CHAPTER XLVII._4",
+      "CHAPTER XLVII._5",
+      "CHAPTER XLVII._6",
+      "CHAPTER XLVII._7",
+      "CHAPTER XLVII._8",
+      "CHAPTER XLVII._9",
+      "CHAPTER XLVII._10",
+      "CHAPTER XLVII._11",
+      "CHAPTER XLVII._12",
+      "CHAPTER XLVII._13",
+      "CHAPTER XLVII._14",
+      "CHAPTER XLVII._15",
+      "CHAPTER XLVII._16",
+      "CHAPTER XLVII._17",
+      "CHAPTER XLVII._18",
+      "CHAPTER XLVII._19",
+      "CHAPTER XLVII._20",
+      "CHAPTER XLVII._21",
+      "CHAPTER XLVII._22",
+      "CHAPTER XLVII._23",
+      "CHAPTER XLVII._24"
+    ]
+  },
+  "“LYDIA BENNET.”": {
+    "start_page": 274,
+    "chunk_ids": [
+      "“LYDIA BENNET.”_0",
+      "“LYDIA BENNET.”_1",
+      "“LYDIA BENNET.”_2",
+      "“LYDIA BENNET.”_3"
+    ]
+  },
+  "CHAPTER XLVIII.": {
+    "start_page": 276,
+    "chunk_ids": [
+      "CHAPTER XLVIII._0",
+      "CHAPTER XLVIII._1",
+      "CHAPTER XLVIII._2",
+      "CHAPTER XLVIII._3",
+      "CHAPTER XLVIII._4",
+      "CHAPTER XLVIII._5",
+      "CHAPTER XLVIII._6",
+      "CHAPTER XLVIII._7",
+      "CHAPTER XLVIII._8",
+      "CHAPTER XLVIII._9",
+      "CHAPTER XLVIII._10",
+      "CHAPTER XLVIII._11",
+      "CHAPTER XLVIII._12",
+      "CHAPTER XLVIII._13",
+      "CHAPTER XLVIII._14",
+      "CHAPTER XLVIII._15"
+    ]
+  },
+  "CHAPTER XLIX.": {
+    "start_page": 282,
+    "chunk_ids": [
+      "CHAPTER XLIX._0",
+      "CHAPTER XLIX._1",
+      "CHAPTER XLIX._2",
+      "CHAPTER XLIX._3",
+      "CHAPTER XLIX._4",
+      "CHAPTER XLIX._5"
+    ]
+  },
+  "“EDW. GARDINER.”": {
+    "start_page": 285,
+    "chunk_ids": [
+      "“EDW. GARDINER.”_0",
+      "“EDW. GARDINER.”_1",
+      "“EDW. GARDINER.”_2",
+      "“EDW. GARDINER.”_3",
+      "“EDW. GARDINER.”_4",
+      "“EDW. GARDINER.”_5",
+      "“EDW. GARDINER.”_6",
+      "“EDW. GARDINER.”_7",
+      "“EDW. GARDINER.”_8",
+      "“EDW. GARDINER.”_9",
+      "“EDW. GARDINER.”_10"
+    ]
+  },
+  "CHAPTER L.": {
+    "start_page": 289,
+    "chunk_ids": [
+      "CHAPTER L._0",
+      "CHAPTER L._1",
+      "CHAPTER L._2",
+      "CHAPTER L._3",
+      "CHAPTER L._4",
+      "CHAPTER L._5",
+      "CHAPTER L._6",
+      "CHAPTER L._7",
+      "CHAPTER L._8",
+      "CHAPTER L._9",
+      "CHAPTER L._10",
+      "CHAPTER L._11",
+      "CHAPTER L._12"
+    ]
+  },
+  "“E. GARDINER.”": {
+    "start_page": 294,
+    "chunk_ids": [
+      "“E. GARDINER.”_0",
+      "“E. GARDINER.”_1",
+      "“E. GARDINER.”_2"
+    ]
+  },
+  "CHAPTER LI.": {
+    "start_page": 295,
+    "chunk_ids": [
+      "CHAPTER LI._0",
+      "CHAPTER LI._1",
+      "CHAPTER LI._2",
+      "CHAPTER LI._3",
+      "CHAPTER LI._4",
+      "CHAPTER LI._5",
+      "CHAPTER LI._6",
+      "CHAPTER LI._7",
+      "CHAPTER LI._8",
+      "CHAPTER LI._9",
+      "CHAPTER LI._10",
+      "CHAPTER LI._11",
+      "CHAPTER LI._12",
+      "CHAPTER LI._13",
+      "CHAPTER LI._14"
+    ]
+  },
+  "CHAPTER LII.": {
+    "start_page": 301,
+    "chunk_ids": [
+      "CHAPTER LII._0",
+      "CHAPTER LII._1",
+      "CHAPTER LII._2",
+      "CHAPTER LII._3",
+      "CHAPTER LII._4",
+      "CHAPTER LII._5",
+      "CHAPTER LII._6",
+      "CHAPTER LII._7",
+      "CHAPTER LII._8",
+      "CHAPTER LII._9",
+      "CHAPTER LII._10",
+      "CHAPTER LII._11",
+      "CHAPTER LII._12",
+      "CHAPTER LII._13"
+    ]
+  },
+  "“M. GARDINER.”": {
+    "start_page": 305,
+    "chunk_ids": [
+      "“M. GARDINER.”_0",
+      "“M. GARDINER.”_1",
+      "“M. GARDINER.”_2",
+      "“M. GARDINER.”_3",
+      "“M. GARDINER.”_4",
+      "“M. GARDINER.”_5",
+      "“M. GARDINER.”_6",
+      "“M. GARDINER.”_7",
+      "“M. GARDINER.”_8"
+    ]
+  },
+  "CHAPTER LIII.": {
+    "start_page": 309,
+    "chunk_ids": [
+      "CHAPTER LIII._0",
+      "CHAPTER LIII._1",
+      "CHAPTER LIII._2",
+      "CHAPTER LIII._3",
+      "CHAPTER LIII._4",
+      "CHAPTER LIII._5",
+      "CHAPTER LIII._6",
+      "CHAPTER LIII._7",
+      "CHAPTER LIII._8",
+      "CHAPTER LIII._9",
+      "CHAPTER LIII._10",
+      "CHAPTER LIII._11",
+      "CHAPTER LIII._12",
+      "CHAPTER LIII._13",
+      "CHAPTER LIII._14",
+      "CHAPTER LIII._15",
+      "CHAPTER LIII._16",
+      "CHAPTER LIII._17",
+      "CHAPTER LIII._18",
+      "CHAPTER LIII._19"
+    ]
+  },
+  "CHAPTER LIV.": {
+    "start_page": 317,
+    "chunk_ids": [
+      "CHAPTER LIV._0",
+      "CHAPTER LIV._1",
+      "CHAPTER LIV._2",
+      "CHAPTER LIV._3",
+      "CHAPTER LIV._4",
+      "CHAPTER LIV._5",
+      "CHAPTER LIV._6",
+      "CHAPTER LIV._7",
+      "CHAPTER LIV._8",
+      "CHAPTER LIV._9",
+      "CHAPTER LIV._10",
+      "CHAPTER LIV._11"
+    ]
+  },
+  "CHAPTER LV.": {
+    "start_page": 322,
+    "chunk_ids": [
+      "CHAPTER LV._0",
+      "CHAPTER LV._1",
+      "CHAPTER LV._2",
+      "CHAPTER LV._3",
+      "CHAPTER LV._4",
+      "CHAPTER LV._5",
+      "CHAPTER LV._6",
+      "CHAPTER LV._7",
+      "CHAPTER LV._8",
+      "CHAPTER LV._9",
+      "CHAPTER LV._10",
+      "CHAPTER LV._11",
+      "CHAPTER LV._12",
+      "CHAPTER LV._13",
+      "CHAPTER LV._14",
+      "CHAPTER LV._15"
+    ]
+  },
+  "CHAPTER LVI.": {
+    "start_page": 329,
+    "chunk_ids": [
+      "CHAPTER LVI._0",
+      "CHAPTER LVI._1",
+      "CHAPTER LVI._2",
+      "CHAPTER LVI._3",
+      "CHAPTER LVI._4",
+      "CHAPTER LVI._5",
+      "CHAPTER LVI._6",
+      "CHAPTER LVI._7",
+      "CHAPTER LVI._8",
+      "CHAPTER LVI._9",
+      "CHAPTER LVI._10",
+      "CHAPTER LVI._11",
+      "CHAPTER LVI._12",
+      "CHAPTER LVI._13",
+      "CHAPTER LVI._14",
+      "CHAPTER LVI._15",
+      "CHAPTER LVI._16",
+      "CHAPTER LVI._17",
+      "CHAPTER LVI._18",
+      "CHAPTER LVI._19",
+      "CHAPTER LVI._20"
+    ]
+  },
+  "CHAPTER LVII.": {
+    "start_page": 338,
+    "chunk_ids": [
+      "CHAPTER LVII._0",
+      "CHAPTER LVII._1",
+      "CHAPTER LVII._2",
+      "CHAPTER LVII._3",
+      "CHAPTER LVII._4",
+      "CHAPTER LVII._5",
+      "CHAPTER LVII._6",
+      "CHAPTER LVII._7",
+      "CHAPTER LVII._8",
+      "CHAPTER LVII._9",
+      "CHAPTER LVII._10",
+      "CHAPTER LVII._11"
+    ]
+  },
+  "CHAPTER LVIII.": {
+    "start_page": 342,
+    "chunk_ids": [
+      "CHAPTER LVIII._0",
+      "CHAPTER LVIII._1",
+      "CHAPTER LVIII._2",
+      "CHAPTER LVIII._3",
+      "CHAPTER LVIII._4",
+      "CHAPTER LVIII._5",
+      "CHAPTER LVIII._6",
+      "CHAPTER LVIII._7",
+      "CHAPTER LVIII._8",
+      "CHAPTER LVIII._9",
+      "CHAPTER LVIII._10",
+      "CHAPTER LVIII._11",
+      "CHAPTER LVIII._12",
+      "CHAPTER LVIII._13",
+      "CHAPTER LVIII._14",
+      "CHAPTER LVIII._15",
+      "CHAPTER LVIII._16",
+      "CHAPTER LVIII._17",
+      "CHAPTER LVIII._18"
+    ]
+  },
+  "CHAPTER LIX.": {
+    "start_page": 349,
+    "chunk_ids": [
+      "CHAPTER LIX._0",
+      "CHAPTER LIX._1",
+      "CHAPTER LIX._2",
+      "CHAPTER LIX._3",
+      "CHAPTER LIX._4",
+      "CHAPTER LIX._5",
+      "CHAPTER LIX._6",
+      "CHAPTER LIX._7",
+      "CHAPTER LIX._8",
+      "CHAPTER LIX._9",
+      "CHAPTER LIX._10",
+      "CHAPTER LIX._11",
+      "CHAPTER LIX._12",
+      "CHAPTER LIX._13",
+      "CHAPTER LIX._14",
+      "CHAPTER LIX._15",
+      "CHAPTER LIX._16",
+      "CHAPTER LIX._17"
+    ]
+  },
+  "CHAPTER LX.": {
+    "start_page": 356,
+    "chunk_ids": [
+      "CHAPTER LX._0",
+      "CHAPTER LX._1",
+      "CHAPTER LX._2",
+      "CHAPTER LX._3",
+      "CHAPTER LX._4",
+      "CHAPTER LX._5",
+      "CHAPTER LX._6",
+      "CHAPTER LX._7",
+      "CHAPTER LX._8",
+      "CHAPTER LX._9",
+      "CHAPTER LX._10"
+    ]
+  },
+  "CHAPTER LXI.": {
+    "start_page": 361,
+    "chunk_ids": [
+      "CHAPTER LXI._0",
+      "CHAPTER LXI._1",
+      "CHAPTER LXI._2",
+      "CHAPTER LXI._3",
+      "CHAPTER LXI._4",
+      "CHAPTER LXI._5",
+      "CHAPTER LXI._6",
+      "CHAPTER LXI._7",
+      "CHAPTER LXI._8"
+    ]
+  },
+  "START: FULL LICENSE": {
+    "start_page": 365,
+    "chunk_ids": []
+  },
+  "THE FULL PROJECT GUTENBERG LICENSE": {
+    "start_page": 365,
+    "chunk_ids": [
+      "THE FULL PROJECT GUTENBERG LICENSE_0"
+    ]
+  },
+  ". General Terms of Use and Redistributing Project Gutenberg™": {
+    "start_page": 365,
+    "chunk_ids": [
+      ". General Terms of Use and Redistributing Project Gutenberg™_0",
+      ". General Terms of Use and Redistributing Project Gutenberg™_1",
+      ". General Terms of Use and Redistributing Project Gutenberg™_2",
+      ". General Terms of Use and Redistributing Project Gutenberg™_3",
+      ". General Terms of Use and Redistributing Project Gutenberg™_4",
+      ". General Terms of Use and Redistributing Project Gutenberg™_5",
+      ". General Terms of Use and Redistributing Project Gutenberg™_6",
+      ". General Terms of Use and Redistributing Project Gutenberg™_7",
+      ". General Terms of Use and Redistributing Project Gutenberg™_8",
+      ". General Terms of Use and Redistributing Project Gutenberg™_9"
+    ]
+  },
+  ", “Information about donations to the Project Gutenberg": {
+    "start_page": 369,
+    "chunk_ids": [
+      ", “Information about donations to the Project Gutenberg_0",
+      ", “Information about donations to the Project Gutenberg_1",
+      ", “Information about donations to the Project Gutenberg_2",
+      ", “Information about donations to the Project Gutenberg_3"
+    ]
+  },
+  "DAMAGE.": {
+    "start_page": 370,
+    "chunk_ids": [
+      "DAMAGE._0",
+      "DAMAGE._1",
+      "DAMAGE._2"
+    ]
+  },
+  ". Information about the Mission of Project Gutenberg™": {
+    "start_page": 371,
+    "chunk_ids": [
+      ". Information about the Mission of Project Gutenberg™_0"
+    ]
+  },
+  ". Information about the Project Gutenberg Literary Archive Foundation": {
+    "start_page": 371,
+    "chunk_ids": [
+      ". Information about the Project Gutenberg Literary Archive Foundation_0"
+    ]
+  },
+  ". Information about Donations to the Project Gutenberg": {
+    "start_page": 372,
+    "chunk_ids": [
+      ". Information about Donations to the Project Gutenberg_0",
+      ". Information about Donations to the Project Gutenberg_1"
+    ]
+  },
+  ". General Information About Project Gutenberg™ electronic works": {
+    "start_page": 373,
+    "chunk_ids": [
+      ". General Information About Project Gutenberg™ electronic works_0"
+    ]
+  }
+}

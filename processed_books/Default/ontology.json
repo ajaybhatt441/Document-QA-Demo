@@ -1,0 +1,159 @@
+{
+  "concepts": [
+    {
+      "id": "ProjectGutenberg",
+      "name": "Project Gutenberg",
+      "description": "A project to create and distribute free eBooks."
+    },
+    {
+      "id": "eBook",
+      "name": "eBook",
+      "description": "An electronic book."
+    },
+    {
+      "id": "License",
+      "name": "License",
+      "description": "The Project Gutenberg License, governing the use and distribution of eBooks."
+    },
+    {
+      "id": "Author",
+      "name": "Author",
+      "description": "The writer of the book, in this case Jane Austen."
+    },
+    {
+      "id": "PrideAndPrejudice",
+      "name": "Pride and Prejudice",
+      "description": "The title of the eBook, a novel by Jane Austen."
+    },
+    {
+      "id": "Copyright",
+      "name": "Copyright",
+      "description": "Legal protection of the work, or lack thereof."
+    },
+    {
+      "id": "UnitedStates",
+      "name": "United States",
+      "description": "The primary location where Project Gutenberg operates."
+    },
+    {
+      "id": "Character",
+      "name": "Character",
+      "description": "A person or entity in the novel."
+    },
+    {
+      "id": "Plot",
+      "name": "Plot",
+      "description": "The sequence of events in the novel."
+    },
+    {
+      "id": "Themes",
+      "name": "Themes",
+      "description": "Underlying ideas or messages in the novel, such as pride, prejudice, love, and social class."
+    },
+    {
+      "id": "ElizabethBennet",
+      "name": "Elizabeth Bennet",
+      "description": "The heroine of Pride and Prejudice."
+    },
+    {
+      "id": "MrDarcy",
+      "name": "Mr. Darcy",
+      "description": "The hero of Pride and Prejudice."
+    },
+    {
+      "id": "JaneAusten",
+      "name": "Jane Austen",
+      "description": "The author of Pride and Prejudice."
+    },
+    {
+      "id": "GoldwinSmith",
+      "name": "Goldwin Smith",
+      "description": "A critic who observed the perfection and narrowness of Austen's field."
+    },
+    {
+      "id": "MrCollins",
+      "name": "Mr. Collins",
+      "description": "A pompous and obsequious clergyman in Pride and Prejudice."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "eBook",
+      "target": "ProjectGutenberg",
+      "type": "distributedBy",
+      "description": "eBooks are distributed by Project Gutenberg."
+    },
+    {
+      "source": "eBook",
+      "target": "License",
+      "type": "governedBy",
+      "description": "Use of eBooks is governed by the Project Gutenberg License."
+    },
+    {
+      "source": "PrideAndPrejudice",
+      "target": "Author",
+      "type": "writtenBy",
+      "description": "Pride and Prejudice was written by Jane Austen."
+    },
+    {
+      "source": "PrideAndPrejudice",
+      "target": "Copyright",
+      "type": "hasStatus",
+      "description": "Pride and Prejudice is in the public domain in the United States."
+    },
+    {
+      "source": "ProjectGutenberg",
+      "target": "UnitedStates",
+      "type": "operatesIn",
+      "description": "Project Gutenberg operates primarily in the United States."
+    },
+    {
+      "source": "PrideAndPrejudice",
+      "target": "Character",
+      "type": "hasCharacters",
+      "description": "Pride and Prejudice contains various characters."
+    },
+    {
+      "source": "PrideAndPrejudice",
+      "target": "Plot",
+      "type": "hasPlot",
+      "description": "Pride and Prejudice has a plot."
+    },
+    {
+      "source": "PrideAndPrejudice",
+      "target": "Themes",
+      "type": "exploresThemes",
+      "description": "Pride and Prejudice explores themes such as pride and prejudice."
+    },
+    {
+      "source": "ElizabethBennet",
+      "target": "PrideAndPrejudice",
+      "type": "appearsIn",
+      "description": "Elizabeth Bennet is a character in Pride and Prejudice."
+    },
+    {
+      "source": "MrDarcy",
+      "target": "PrideAndPrejudice",
+      "type": "appearsIn",
+      "description": "Mr. Darcy is a character in Pride and Prejudice."
+    },
+    {
+      "source": "JaneAusten",
+      "target": "PrideAndPrejudice",
+      "type": "isAuthorOf",
+      "description": "Jane Austen is the author of Pride and Prejudice."
+    },
+    {
+      "source": "PrideAndPrejudice",
+      "target": "GoldwinSmith",
+      "type": "analyzedBy",
+      "description": "Pride and Prejudice was analyzed by Goldwin Smith."
+    },
+    {
+      "source": "MrCollins",
+      "target": "PrideAndPrejudice",
+      "type": "appearsIn",
+      "description": "Mr. Collins is a character in Pride and Prejudice."
+    }
+  ]
+}
