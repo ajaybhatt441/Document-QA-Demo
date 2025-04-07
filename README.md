@@ -61,7 +61,7 @@ http://157.20.172.159:9015/
 ![alt text](images/Graph.png)
 Knowledge Graph (Ontology)
 
-![alt text](images/Relationship.png)
+![alt text](images/relationship.png)
 Ontology Relationship Concepts
 
 ![alt text](images/UI.png) 
